@@ -1,16 +1,14 @@
-### Hello World, I'm Raphael! 👋
+### Hello World, I'm Raphael! ☕
 
-I am a Junior Web and Desktop Developer and currently study Information Systems.
-I'm passionate about solving problems and fascinated to know what I can do to make people's lives easier through technology.
+## 📜 Sobre mim:
 
-Here are some ideas to get you started:
+I am a Junior Web and Desktop Developer and currently study Information Systems, passionate about solving problems and fascinated to know what I can do to make people's lives easier through technology. **I really enjoy studying programming and English!**
 
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O que venho aprendendo:
+- Programming: C, C#, JavaScript, HTML and CSS <br>
+- Other techs: Ajax, Gulp <br>
+- Databases: MySQL e SQL Server <br>
+- I'm currently learning: NodeJS, Webpack, jQuery and Bootstrap <br>
+- Undergraduate student: Information Systems, in progress <br>
+
+"There isn't growth in the comfort zone"
