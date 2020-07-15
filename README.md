@@ -11,4 +11,4 @@ I am a Junior Web and Desktop Developer and currently study Information Systems,
 - I'm currently learning: NodeJS, Webpack, jQuery and Bootstrap <br>
 - Undergraduate student: Information Systems, in progress <br>
 
-"There isn't growth in the comfort zone"
+###"There isn't growth in the comfort zone"
