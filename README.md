@@ -6,9 +6,9 @@ I am a Junior Web and Desktop Developer and currently study Information Systems,
 
 ## 🚀 What I'm learning:
 - Programming: C, C#, JavaScript, HTML and CSS <br>
-- Other techs: Ajax, Gulp <br>
+- Other techs: Ajax, Gulp, Webpack, jQuery and Bootstrap <br>
 - Databases: MySQL e SQL Server <br>
-- I'm currently learning: NodeJS, Webpack, jQuery and Bootstrap <br>
+- I'm currently learning: NodeJS, React <br>
 - Undergraduate student: Information Systems, in progress <br>
 ---
 
