@@ -1,3 +1,9 @@
+<h1 align="center">
+    <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1595880522262.png">
+</h1>
+
+---
+
 ### Hello World, I'm Raphael! 👨🏻‍💻
 
 ## 📜 About me:
