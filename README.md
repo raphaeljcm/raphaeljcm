@@ -19,4 +19,4 @@ I am a Junior Web and Desktop Developer and currently study Information Systems,
 - Undergraduate student: Information Systems, in progress <br>
 ---
 
-#### :octocat: "There isn't growth in the comfort zone" ☕
+#### "There isn't growth in the comfort zone" ☕
