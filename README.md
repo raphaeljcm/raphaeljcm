@@ -1,7 +1,8 @@
 <h1 align="center">
-    <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1595880522262.png">
+    <img alt="Octocat" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1595880522262.png" width="250px">
 </h1>
 
+[![Gmail Badge](https://img.shields.io/badge/-My_Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaeljcmarques@gmail.com)](mailto:raphaeljcmarques@gmail.com)
 ---
 
 ### Hello World, I'm Raphael! 👨🏻‍💻
@@ -18,4 +19,4 @@ I am a Junior Web and Desktop Developer and currently study Information Systems,
 - Undergraduate student: Information Systems, in progress <br>
 ---
 
-#### "There isn't growth in the comfort zone" ☕
+#### :octocat: "There isn't growth in the comfort zone" ☕
