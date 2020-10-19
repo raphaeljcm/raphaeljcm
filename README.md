@@ -11,6 +11,7 @@
 <a href="mailto:raphaeljcmarques@gmail.com">
   <img align="left" alt="Raphael Marques Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+---
 
 ### Hello World, I'm Raphael! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
