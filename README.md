@@ -9,8 +9,6 @@
   <img align="left" alt="Raphael Marques Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 [![Gmail Badge](https://img.shields.io/badge/-My_Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaeljcmarques@gmail.com)](mailto:raphaeljcmarques@gmail.com)
-![](https://visitor-badge.glitch.me/badge?page_id=faeelcardoso)
----
 
 ### Hello World, I'm Raphael! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
