@@ -28,4 +28,4 @@ I'm a Junior Web and Desktop Developer and currently study Information Systems, 
 - Undergraduate student: Information Systems, in progress <br>
 ---
 
-#### "There isn't growth in the comfort zone" ☕
+#### "There's no growth in the comfort zone" ☕
