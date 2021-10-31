@@ -20,11 +20,11 @@
 
 I'm a Junior Web Developer at the beginning of my career. Currently studying Information Systems, and passionate about solving problems, and fascinated to know what I can do to make people's lives easier through technology. 
 
-## 🚀 What I'm learning: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
+## 🚀 What I'm learning: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 - Programming: HTML, CSS, JavaScript <br>
-- Other techs: C, C# <br>
+- Other techs: C, C#, Java <br>
 - Databases: MySQL and SQL Server <br>
-- I'm currently learning: Bootstrap, jQuery, Firebase, Java <br>
+- I'm currently learning: Saas, jQuery, Firebase <br>
 - Undergraduate student: Information Systems, in progress <br>
 ---
 
