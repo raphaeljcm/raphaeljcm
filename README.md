@@ -24,7 +24,7 @@ I'm a Junior Web Developer at the beginning of my career. Currently studying Inf
 - Programming: HTML, CSS, JavaScript <br>
 - Other techs: C, C#, Java <br>
 - Databases: MySQL and SQL Server <br>
-- I'm currently learning: Saas, jQuery, Firebase <br>
+- I'm currently learning: Sass, jQuery, Firebase <br>
 - Undergraduate student: Information Systems, in progress <br>
 ---
 
