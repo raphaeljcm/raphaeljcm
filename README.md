@@ -2,15 +2,14 @@
     <img src="https://github.com/faeelcardoso/faeelcardoso/blob/master/Brand.png" alt="Raphael's picture brand" width="100%">
 </h1>
 
-<a href="https://www.linkedin.com/in/raphael-marques-682140143/">
-  <img align="left" alt="Raphael Marques Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<p align="center" style="background:blue">
+  <a href="https://instagram.com/raphaeljcm_" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-raphaeljcm_-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://www.instagram.com/raphaeljcm_/">
-  <img align="left" alt="Raphael Marques Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.linkedin.com/in/raphael-marques-682140143/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Raphael Marques-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="mailto:raphaeljcmarques@gmail.com">
-  <img align="left" alt="Raphael Marques Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+</p>
 
 </br>
 
