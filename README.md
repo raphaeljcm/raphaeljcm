@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Octocat" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1595880522262.png" width="250px">
+    <img alt="Raphael Img" src="https://drive.google.com/file/d/1DvrVayIsYyw00jlCF5Z3Xmclzd_7RQXK/view" width="100%">
 </h1>
 
 <a href="https://www.linkedin.com/in/raphael-marques-682140143/">
