@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/faeelcardoso/faeelcardoso/master/banner.png" alt="Raphael's picture brand" width="100%">
+    <img src="https://github.com/faeelcardoso/faeelcardoso/blob/master/Brand.png" alt="Raphael's picture brand" width="100%">
 </h1>
 
 <a href="https://www.linkedin.com/in/raphael-marques-682140143/">
