@@ -14,17 +14,26 @@
 
 </br>
 
-### Hello World, I'm Raphael! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello There, I'm Raphael! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## 📜 About me:
 
-I'm a Junior Web Developer at the beginning of my career. Currently studying Information Systems, and passionate about solving problems, and fascinated to know what I can do to make people's lives easier through technology. 
+I'm a Junior Web Developer at the beginning of my career. Currently studying Information Systems, passionate about solving problems, and fascinated to know what I can do to make people's lives easier through technology. 
 
-## 🚀 What I'm learning: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
+## 🚀 What I'm learning: 
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+
+
 - Programming: HTML, CSS, JavaScript <br>
 - Other techs: C, C#, Java <br>
 - Databases: MySQL and SQL Server <br>
-- I'm currently learning: Sass, jQuery, Firebase <br>
+- I'm currently learning: Sass, jQuery, Firebase, Functional Programming <br>
 - Undergraduate student: Information Systems, in progress <br>
 ---
 
