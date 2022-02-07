@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/faeelcardoso/faeelcardoso/blob/master/second-brand.png" alt="Raphael's picture brand" width="100%">
+    <img src="https://github.com/faeelcardoso/faeelcardoso/blob/master/new-brand.png" alt="Raphael's picture brand" width="100%">
 </h1>
 
 <p align="center" style="background:blue">
