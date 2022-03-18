@@ -30,10 +30,9 @@ I'm a Junior Web Developer at the beginning of my career. Currently studying Inf
 ![SqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 
 
-- Programming: HTML, CSS, JavaScript <br>
-- Other techs: C, C#, Java <br>
+- Programming: HTML, CSS, Sass, JavaScript, jQuery <br>
 - Databases: MySQL and SQL Server <br>
-- I'm currently learning: Sass, jQuery, Firebase, Functional Programming <br>
+- I'm currently learning: Firebase <br>
 - Undergraduate student: Information Systems, in progress <br>
 ---
 
