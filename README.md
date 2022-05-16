@@ -33,7 +33,7 @@ I'm a Junior Web Developer at the beginning of my career. Currently studying Inf
 
 - Programming: HTML, CSS, Sass, JavaScript, jQuery <br>
 - Databases: MySQL and SQL Server <br>
-- I'm currently learning: NodeJS, MongoDB, TypeScript, ReactJS <br>
+- I'm currently learning: React, TypeScript, NodeJS, MongoDB <br>
 - Undergraduate student: Information Systems, in progress <br>
 ---
 
