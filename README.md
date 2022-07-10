@@ -17,7 +17,7 @@
 
 ## 📜 About me:
 
-I'm a Junior Web Developer focusing on front-end nowadays but I really want to become a full stack developer one day. Currently pursuing a degree in Information Systems, passionate about solving problems, and fascinated to know what I can do to make people's lives easier through technology. 
+I'm a Junior Front-end Developer with 1 year of experience in the field and I want to become a full stack developer one day. Currently pursuing a degree in Information Systems, passionate about solving problems, and fascinated to know what I can do to make people's lives easier through technology.
 
 ## 🚀 What I'm learning: 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
