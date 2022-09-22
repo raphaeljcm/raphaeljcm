@@ -33,9 +33,9 @@ I'm a Junior Front-end Developer with 1 year of experience in the field and I wa
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 
-- Programming: HTML, CSS, Sass, JavaScript, jQuery <br>
+- Programming: JavaScript, TypeScript, jQuery, React, Sass, Styled-Components <br>
 - Databases: MySQL and SQL Server <br>
-- I'm currently learning: React, TypeScript, Next.js, NodeJS, MongoDB <br>
+- I'm currently learning: Next.js, React Native, NodeJS, MongoDB <br>
 - Undergraduate student: Information Systems, in progress <br>
 ---
 
