@@ -26,16 +26,15 @@ I'm a Junior Front-end Developer with 1 year of experience in the field and I wa
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 
-- Programming: JavaScript, TypeScript, jQuery, React, Sass, Styled-Components <br>
-- Databases: MySQL and SQL Server <br>
-- I'm currently learning: Next.js, React Native, NodeJS, MongoDB <br>
+- Programming: JavaScript, TypeScript, React, Sass, Styled-Components, Tailwind <br>
+- Databases: MySQL, SQL Server, MongoDB <br>
+- I'm currently learning: NodeJS, Next.js, React Native <br>
 - Undergraduate student: Information Systems, in progress <br>
 ---
 
