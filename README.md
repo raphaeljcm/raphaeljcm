@@ -31,10 +31,11 @@ I'm a Web Developer with 1 year and a half of experience in the field, focusing 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 
-- Programming: JavaScript, TypeScript, React, Sass, Styled-Components, Tailwind <br>
-- Databases: MySQL, SQL Server, MongoDB <br>
-- I'm currently learning: NodeJS, Next.js, React Native <br>
-- Undergraduate student: Information Systems, in progress <br>
+- Programming: JavaScript, TypeScript, React
+- Styling: Sass, Styled-Components, Tailwind
+- Databases: MySQL, SQL Server, MongoDB
+- I'm currently learning: NodeJS, Next.js, React Native
+- Undergraduate student: Information Systems, in progress
 ---
 
 #### "There's no growth in the comfort zone" ☕
