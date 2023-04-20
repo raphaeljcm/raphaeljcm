@@ -34,7 +34,7 @@ I'm a Web Developer with 1 year and a half of experience in the field, focusing 
 - Programming: JavaScript, TypeScript, React
 - Styling: Sass, Styled-Components, Tailwind
 - Databases: MySQL, SQL Server, MongoDB
-- I'm currently learning: NodeJS, Next.js, React Native
+- Currently learning: Node, Next, React Native
 - Undergraduate student: Information Systems, in progress
 ---
 
