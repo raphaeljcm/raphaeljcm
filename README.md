@@ -33,8 +33,9 @@ I'm a Web Developer with 2 years of experience in the field, focusing on fronten
 
 - Programming: JavaScript, TypeScript, React
 - Styling: Sass, Styled-Components, Tailwind
+- Libs: React Router, React Query
 - Databases: MySQL, SQL Server, MongoDB
-- Currently learning: Node, Next, React Native
+- Currently learning: Redux
 - Undergraduate student: Information Systems, in progress
 ---
 
