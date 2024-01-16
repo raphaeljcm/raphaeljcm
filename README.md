@@ -17,7 +17,7 @@
 
 ## 📜 About me:
 
-I'm a Software Developer with over 2 years of experience in the field, focusing on frontend nowadays but I also help with the backend when the opportunity comes up. Currently pursuing a degree in Information Systems, passionate about solving problems, and fascinated to know what I can do to make people's lives easier through technology.
+Hey there! I'm a Software Developer with over 2 years specializing in frontend web development, and I happily lend a hand with backend tasks when needed. Currently pursuing a degree in Information Systems, passionate about solving problems, and fascinated to know what I can do to make people's lives easier through technology.
 
 ## 🚀 What I'm learning: 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
@@ -35,7 +35,7 @@ I'm a Software Developer with over 2 years of experience in the field, focusing 
 - Styling: Sass, Styled-Components, Tailwind
 - Libs: React Router, React Query
 - Databases: MySQL, SQL Server, MongoDB
-- Currently learning: NodeJS
+- Currently learning: Storybook & NodeJS
 - Undergraduate student: Information Systems, in progress
 ---
 
