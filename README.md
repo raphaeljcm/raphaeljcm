@@ -17,7 +17,7 @@
 
 ## 📜 About me:
 
-Hey there! I'm a Software Developer with over 2 years specializing in frontend web development, and I happily lend a hand with backend tasks when needed. Currently pursuing a degree in Information Systems, passionate about solving problems, and fascinated to know what I can do to make people's lives easier through technology.
+Hey there! I'm a Software Developer with over 2 years specializing in frontend development, and I happily lend a hand with backend tasks when needed. Currently pursuing a degree in Information Systems, passionate about solving problems, and fascinated to know what I can do to make people's lives easier through technology.
 
 ## 🚀 What I'm learning: 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
