@@ -34,7 +34,7 @@ Hey there! I'm a Software Developer with over 2 years specializing in frontend d
 - Programming: JavaScript, TypeScript, React
 - Styling: Sass, Styled-Components, Tailwind
 - Libs: React Router, React Query
-- Databases: MySQL, SQL Server, MongoDB
+- Databases: MySQL, MariaDB, MongoDB
 - Currently learning: React Native, NodeJS & Python
 - Undergraduate student: Information Systems, in progress
 ---
