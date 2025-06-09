@@ -17,7 +17,7 @@
 
 ## 📜 About me:
 
-Hey there! I'm a Software Engineer with 3 years specializing in frontend development, and I happily lend a hand with backend tasks when needed. Currently pursuing a degree in Information Systems, passionate about solving problems, and fascinated to know what I can do to make people's lives easier through technology.
+Hey there! I'm a Software Engineer with 4 years of experience. I got a bachelor's in Information Systems, love coffee, am passionate about solving problems, and fascinated to know what I can do to make people's lives easier through technology.
 
 ## 🚀 What I'm learning: 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
@@ -31,11 +31,11 @@ Hey there! I'm a Software Engineer with 3 years specializing in frontend develop
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 
-- Programming: JavaScript, TypeScript, React
-- Styling: Sass, Styled-Components, Tailwind
-- Libs: React Router, React Query
-- Databases: MySQL, MariaDB, MongoDB
-- Currently learning: React Native, NodeJS, Docker
+🛠️ Tools: Reactjs, Node, Typescript, Docker
+💅 Styling: SASS, Styled Components, Tailwind CSS
+🧪 Testing: Jest, RTL, Cypress, Playwright
+📚 Favorite libraries: React Router, React Query, Redux
+📦 Databases: MySQL, MariaDB, Postgresql, Sequelize, PrismaORM
 ---
 
 #### "There's no growth in the comfort zone" ☕
