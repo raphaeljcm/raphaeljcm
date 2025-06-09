@@ -31,11 +31,11 @@ Hey there! I'm a Software Engineer with 4 years of experience. I got a bachelor'
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 
-🛠️ Tools: Reactjs, Node, Typescript, Docker
-💅 Styling: SASS, Styled Components, Tailwind CSS
-🧪 Testing: Jest, RTL, Cypress, Playwright
-📚 Favorite libraries: React Router, React Query, Redux
-📦 Databases: MySQL, MariaDB, Postgresql, Sequelize, PrismaORM
+- 🛠️ Tools: Reactjs, Node, Typescript, Docker  
+- 💅 Styling: SASS, Styled Components, Tailwind CSS  
+- 🧪 Testing: Jest, RTL, Cypress, Playwright  
+- 📚 Favorite libraries: React Router, React Query, Redux  
+- 📦 Databases: MySQL, MariaDB, Postgresql, Sequelize, PrismaORM  
 ---
 
 #### "There's no growth in the comfort zone" ☕
