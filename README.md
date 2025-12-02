@@ -1,41 +1,8 @@
-<h1 align="center">
-    <img src="https://github.com/faeelcardoso/faeelcardoso/blob/master/software-developer.png" alt="Raphael's picture brand" width="100%">
-</h1>
+### Hey, I'm Raphael Marques 👋
 
-<p align="center" style="background:blue">
-  <a href="https://instagram.com/raphaeljcm_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-raphaeljcm_-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/raphael-marques-682140143/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Raphael Marques-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-</p>
+Software Engineer focused on building well-crafted web applications using JavaScript, TypeScript, React, and Node.js.  
+My work spans clean, accessible interfaces and backend logic that supports real products, always with an eye on performance and great user experience.
 
-</br>
+Here you'll find personal projects, UI experiments, and full-stack tools built around the modern web stack.
 
-### Hello There, I'm Raphael! 👋
-
-## 📜 About me:
-
-Hey there! I'm a Software Engineer with 4 years of experience. I got a bachelor's in Information Systems, love coffee, am passionate about solving problems, and fascinated to know what I can do to make people's lives easier through technology.
-
-## 🚀 What I'm learning: 
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-
-- 🛠️ Tools: Reactjs, Node, Typescript, Docker  
-- 💅 Styling: SASS, Styled Components, Tailwind CSS  
-- 🧪 Testing: Jest, RTL, Cypress, Playwright  
-- 📚 Favorite libraries: React Router, React Query, Redux  
-- 📦 Databases: MySQL, MariaDB, Postgresql, Sequelize, PrismaORM  
----
-
-#### "There's no growth in the comfort zone" ☕
+📫 [LinkedIn](https://www.linkedin.com/in/raphaeljcm) • [Instagram](https://instagram.com/raphaeljcm)
